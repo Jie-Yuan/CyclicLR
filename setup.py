@@ -14,7 +14,7 @@ from pathlib import Path
 from setuptools import find_packages, setup
 
 # rename
-package_name = project_name = Path(".").cwd().name
+package_name = project_name = Path(".").cwd().name.lower()
 
 version = time.strftime("%Y.%m.%d.%H.%M.%S", time.localtime())
 

@@ -9,7 +9,7 @@
 
 # Install
 ```sh
-pip install CyclicLR
+pip install cycliclr
 ```
 
 
