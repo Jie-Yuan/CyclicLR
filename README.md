@@ -15,5 +15,7 @@ pip install CyclicLR
 
 ---
 https://github.com/bckenstler/CLR
+
 https://github.com/m-romanenko/cycliclr
+
 https://github.com/automan000/CyclicLR_Scheduler_PyTorch
